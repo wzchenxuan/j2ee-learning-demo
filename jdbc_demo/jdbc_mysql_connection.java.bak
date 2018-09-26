@@ -9,7 +9,6 @@ import java.sql.Statement;
 		  PRIMARY KEY (`id`)
 		) ENGINE=MyISAM AUTO_INCREMENT=21 DEFAULT CHARSET=utf8;
 */
-
 public class jdbc_mysql_connection {
 	//这里为了缩短篇幅省略的异常捕获，实际项目需要捕获异常
 	public static void main(String[] args) throws Exception {
